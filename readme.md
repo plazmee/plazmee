@@ -13,7 +13,7 @@ while (true) {
 
 ## 🔧 Technologies and Tools
 
-- **Programming Languages:** Java, Python, C#
+- **Programming Languages:** Java, Python, Lua, C#
 - **Frameworks:** Flask
 - **Databases:** MySQL, PostgreSQL
 - **Tools:** Git
